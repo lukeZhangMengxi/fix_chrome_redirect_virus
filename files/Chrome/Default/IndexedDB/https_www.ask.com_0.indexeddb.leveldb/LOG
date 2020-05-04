@@ -1,0 +1,8 @@
+2020/05/04-03:30:37.027 74533 Reusing MANIFEST /Users/zhangmengxi/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.ask.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/04-03:30:37.027 74533 Recovering log #4
+2020/05/04-03:30:37.027 74533 Reusing old log /Users/zhangmengxi/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.ask.com_0.indexeddb.leveldb/000004.log 
+2020/05/04-03:30:48.370 6e12f Level-0 table #8: started
+2020/05/04-03:30:48.370 6e12f Level-0 table #8: 0 bytes OK
+2020/05/04-03:30:48.421 6e12f Delete type=0 #4
+2020/05/04-03:30:48.422 6e12f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/04-03:30:48.422 6e12f Manual compaction at level-1 from (begin) .. (end); will stop at (end)
