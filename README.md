@@ -32,3 +32,9 @@ Now we get something interesting, since we know the trick the hijack is playing.
 I am so regret that I deleted the folder directly, it would be so much more fun checking what files it contains. Now I have to do some reverse engineering... which is also a lot of fun.. a different type lol~ However, after several more trys of new tab search, it installed a new `~/Library/Application Support/Google/Chrome`. A smart hijack, I almost love it lol. And now every new tab search goes to `https://www.ask.com/web?q=${search_content}`.
 
 Nice, now let's have a look at the folder. I have copied the whole folder to `files/Chrome`. I tried searching "ask.com" inside that folder, and I did get several entries but nothing special. Thus I guess the hijack is simply using the folder, but the folder is not a part of the hijack.
+
+
+### 2. Install and use `Malwarebytes`
+Malwarebytes scan and delete the adwares. After the deletion, a browser settings reset would fix the hijack. Feeling not that proud since I did not fix the problem by hands, but at least I got the it fixed.
+
+![malwarebytes_report.png](images/malwarebytes_report.png)
